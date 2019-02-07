@@ -1,0 +1,4 @@
+Requirement:__
+
+Tensorflow 0.12.1
+python 3.5.4
