@@ -9,5 +9,8 @@
     Pytorch(for pytorch_chatbot)
    
 ### Dataset:-
-    https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+   https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
+### Credit and Referance:-
+   https://github.com/suriyadeepan/practical_seq2seq
+   
