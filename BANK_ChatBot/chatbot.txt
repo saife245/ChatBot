@@ -1,6 +1,7 @@
 Requirement:__
 
 nltk
+scikit learn
 python 3.5.4
 pandas
 pickle
