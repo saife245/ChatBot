@@ -4,7 +4,7 @@
 
 ## Requirement:-
     Python 3.5.4
-    Tensorflow 1.0.0
+    Tensorflow 1.6.0
     NLTK
     Pytorch(for pytorch_chatbot)
    
