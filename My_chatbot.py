@@ -10,7 +10,7 @@ Created on Sat Jan 26 12:10:47 2019
 """
 ################### Requirement ###################
 $$$ Python 3.5+
-$$$ Tensorflow == 1.0.0
+$$$ Tensorflow
 $$$ cornell movie-dialogs corpus dataset to train
 """
 
